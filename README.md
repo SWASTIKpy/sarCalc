@@ -1,1 +1,1 @@
-Just a simple calculator with some fun sarcasm built onto
+Just a simple calculator inspired from ios with some fun sarcasm built onto
